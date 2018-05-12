@@ -1,0 +1,37 @@
+_repo: The-Old-Front-Line_20616
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Masefield, John
+    birthdate: 1878
+    deathdate: 1967
+    gutenberg_agent_id: '582'
+    url: http://www.gutenberg.org/2009/agents/582
+    wikipedia: http://en.wikipedia.org/wiki/John_Masefield
+description: July 1st 1916 is a date that remains embedded in the British folk memory.
+  It was the first day of the Battle of the Somme, the day on which British and Empire
+  troops suffered nearly 60,000 casualties, a third of them fatal. In this evocative
+  classic memoir John Masefield, the future Poet Laureate, describes the battleground
+  over which the armies were to fight. He had spent months at the front and was familiar
+  with the men, the trenches that they inhabited and the conditions that they endured.
+  'The Old Front Line' was written shortly after the battle, and this elegant account
+  will still move the modern reader as well as providing a valuable guide for the
+  many 21st century visitors to the battlefield. This edition has a powerful new Introduction
+  by Martin Middlebrook.
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2007-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Somme, 1st Battle of the, France, 1916'
+title: The Old Front Line
+url: http://www.gutenberg.org/ebooks/20616
